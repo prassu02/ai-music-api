@@ -11,5 +11,5 @@ POST /generate-music
 
 Input:
 {
-  "prompt": "happy tune"
+  "prompt": "happy birthday tune"
 }
